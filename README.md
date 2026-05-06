@@ -1,2 +1,2 @@
-# Paid-Admin-E-com-dashboard-React
-Paid-Admin-E-com-dashboard-react js
+# PetShop-Admin_panel
+Admin_panel
